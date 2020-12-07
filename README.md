@@ -1,2 +1,2 @@
 # pullrequest_training
-プルリク練習用
+HELLO,Pull Request
